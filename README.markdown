@@ -3,6 +3,9 @@
 Vim Checkbox
 ============
 
+This is a fork of @jkramer's inactive project with some additions to help with
+global mappings. 
+
 
 Description
 -----------
